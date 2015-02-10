@@ -1,38 +1,3 @@
-<<<<<<< HEAD
-# React Tutorial
-
-This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
-
-## To use
-
-There are several simple server implementations included. They all serve static files from `public/` and handle requests to `comments.json` to fetch or add data. Start a server with one of the following:
-
-### Node
-
-```sh
-npm install
-node server.js
-```
-
-### Python
-
-```sh
-pip install -r requirements.txt
-python server.py
-```
-
-### Ruby
-```sh
-ruby server.rb
-```
-
-### PHP
-```sh
-php server.php
-```
-
-And visit <http://localhost:3000/>. Try opening multiple tabs!
-=======
 # React-Tutorial
 
 Context:
@@ -52,4 +17,3 @@ The Basics of ReactJS:
 Tutorial:
 - The following tutorial describes how to create a comments box that you can then drop into antoher app, e.g., blog, social media app, etc. Here you see two interesting things: comments appear in the list before they're saved on the server so it feels fast, and there are live updates so that other users' comments are popped into the comment view in real time.
 - Find the tutorial here: http://facebook.github.io/react/docs/tutorial.html
->>>>>>> ec60b0e356949e3224a7009ceeacedfdabac4650
